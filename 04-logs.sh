@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Arjun (24BAI10141)
+# Author: Arjun Tiwari(24BAI10141)
 # -----------------------------------------------------------------------------
 # Script: 04-logs.sh
 # Purpose: Analyze a given log file for a specific keyword, count occurrences,
