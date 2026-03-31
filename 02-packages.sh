@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Arjun (24BAI10141)
+# Author: Arjun Tiwari (24BAI10141)
 # -----------------------------------------------------------------------------
 # Script: 02-packages.sh
 # Purpose: Detect the package manager, verify Git installation, report its version,
