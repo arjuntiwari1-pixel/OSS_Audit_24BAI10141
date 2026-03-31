@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Arjun (24BAI10141)
+# Author: Arjun Tiwari(24BAI10141)
 # -----------------------------------------------------------------------------
 # Script: 03-auditor.sh
 # Purpose: Audit a set of critical directories (including Git‑specific ones) and
