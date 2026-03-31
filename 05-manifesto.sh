@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Arjun (24BAI10141)
+# Author: Arjun Tiwari(24BAI10141)
 # -----------------------------------------------------------------------------
 # Script: 05-manifesto.sh
 # Purpose: Interactively collect user input and generate a personalized Open
